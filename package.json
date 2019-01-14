@@ -10,8 +10,7 @@
   "dependencies": {
     "ajv": "^5.5.0",
     "artillery": "^1.6.0-23",
-    "bcrypt": "^1.0.3",
-    "bcryptjs": "*",
+    "bcrypt": "^3.0.3",
     "body-parser": "*",
     "cors": "*",
     "express": "^4.16.3",
