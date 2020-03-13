@@ -3,8 +3,8 @@ var nodemailer = require("nodemailer");
 var smtpTransport = nodemailer.createTransport({
    service: "Yahoo",  // sets automatically host, port and connection security settings
    auth: {
-       user: "bhavik_panchal17@yahoo.com",
-       pass: "Bhavik@123"
+       user: "*******@yahoo.com",
+       pass: "*******"
    }
 });
 
